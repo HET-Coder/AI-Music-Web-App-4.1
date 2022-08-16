@@ -1,0 +1,28 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note {
+    font-size: 15px;
+    color: black;
+}
+body {
+    background-size: cover;
+}
+.forJAVA {
+    padding: 4px;
+    margin: 0%;
+    box-shadow: 3px solid royalblue;
+}
+canvas {
+    border: 3px solid lime;
+    padding: 3px;
+    margin: 0%;
+    box-shadow: 4px solid greenyellow;
+}
+
+.play_button {
+    width: 130px;
+    font-size: 25px;
+}
